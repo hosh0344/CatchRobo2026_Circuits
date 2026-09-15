@@ -6,7 +6,7 @@
 
 STM32G431を使用し、ハードウェアタイマーによりエンコーダーパルスを自動でカウントすることができる。CAN、リミットスイッチなどに対応しており、パターン的には20A程度流せるように設計している。
 
-<img width="573" height="383" alt="{023DE596-0431-440E-A475-77CB5A5AA967}" src="https://github.com/user-attachments/assets/28314eae-a597-4837-a002-586c2e877398" />
+<img width="455" height="332" alt="{622700B1-9ECF-4F6A-8477-B12D88F7E622}" src="https://github.com/user-attachments/assets/b60ed577-2664-4eff-815f-1a27d06e5fc8" />
 
 ## 2. PWSP2026
 
@@ -30,6 +30,7 @@ STM32G474RET6を用いたコントローラ基板
 
 3つのポンプと3つのサーボ、FEETECH社のSTS3215を制御できるほか、DCMD同様にハードウェアエンコーダカウントができる。
 
-<img width="1161" height="797" alt="image" src="https://github.com/user-attachments/assets/8dbe5f78-3ac2-423f-93dd-b20832d3aa04" />
+<img width="459" height="341" alt="{35D635A6-A3FB-4AA9-B180-77BFFF8ED011}" src="https://github.com/user-attachments/assets/54186eb7-af58-4752-a841-4e8d4dfddf32" />
+
 
 
