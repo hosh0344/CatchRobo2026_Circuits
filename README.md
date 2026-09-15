@@ -14,6 +14,8 @@ STM32G431を使用し、ハードウェアタイマーによりエンコーダ�
 
 AND回路による緊停を撤廃し、直接PMOSのゲートをハイインピーダンスにすることによってロジック部に依存しない方式に変更した。CANはオプションで搭載しているが、基本的には使わない方針である。
 
+**※従来のPWSPとは緊急停止の規格が異なっているため併用は不可能**
+
 <img width="493" height="351" alt="{26B5F7B8-E7FF-49B4-9FE5-0DB93D81116B}" src="https://github.com/user-attachments/assets/ab98d2fd-3d0f-4990-aa24-940b5b1776dd" />
 
 ## 3. MainController2026
